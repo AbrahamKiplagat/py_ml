@@ -21,3 +21,26 @@ Provide a starter framework for evaluating multiple classifiers.
 Serve as a learning tool for beginners in machine learning.
 
 Make model swapping and experimentation easy and modular.
+
+
+---
+
+## 🧪 Models Used
+
+- **SVM** – Finds the optimal hyperplane for classification.
+- **KNN** – Classifies based on the majority vote of the nearest neighbors.
+- **Naive Bayes** – Probabilistic model based on Bayes’ theorem.
+- **Decision Tree** – Recursive partitioning of features to classify data.
+
+---
+
+## 🚀 How to Run
+
+1. Ensure you have Python 3.x installed.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## 🧑‍💻 Author
+Created by Kiplah
+Feel free to contribute or fork!
